@@ -6,7 +6,11 @@
 
 .radioList {
   padding-left: 15px;
-  margin-bottom: 3px;
+  margin-bottom: 20px;
+}
+
+.date {
+  margin-right: 27px;
 }
 
 .form-check-label {
