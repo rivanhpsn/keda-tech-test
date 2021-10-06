@@ -1,0 +1,14 @@
+.formGroupRadios2 {
+  display: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.radioList {
+  padding-left: 15px;
+  margin-bottom: 3px;
+}
+
+.form-check-label {
+  padding-left: 3px;
+}
